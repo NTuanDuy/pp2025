@@ -2,5 +2,5 @@
 
 - Your student ID: **2410215**
 - Your name: **Ngo Tuan Duy**
-- Your class: **ICT2**
+- Your class: **ICT1**
 
